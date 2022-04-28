@@ -1,2 +1,3 @@
 my first git bash project 
 in AKGEC 
+nancy gupta
